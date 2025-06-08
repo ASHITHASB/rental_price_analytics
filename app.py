@@ -3,7 +3,6 @@ import pandas as pd
 import streamlit as st
 import os
 from transformers import pipeline
-pip install torch
 
 st.set_page_config(page_title="Rental Price Analytics", layout="wide")
 st.title("🏠 Rental Price Analytics Dashboard + AI Advisor")
